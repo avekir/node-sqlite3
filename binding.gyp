@@ -4,7 +4,7 @@
       "sqlite%":"internal",
       "sqlite_libname%":"sqlite3",
       "module_name":"node_sqlite3",
-      "module_path":"../lib/binding/{node_abi}-{platform}-{arch}"
+      "module_path":"./lib/binding/electron-{platform}-{arch}"
   },
   "targets": [
     {
